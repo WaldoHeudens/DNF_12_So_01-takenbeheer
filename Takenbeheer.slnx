@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Takenbeheer.Tests/Takenbeheer.Tests.csproj" />
+  <Project Path="Takenbeheer/Takenbeheer.csproj" />
+</Solution>
